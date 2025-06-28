@@ -1,0 +1,12 @@
+{
+  "RenameMode": "Custom",
+  "CustomName": "\u6587\u4EF6{n}",
+  "Prefix": "\u65B0_",
+  "Suffix": "_\u65B0",
+  "FindText": "\u65E7",
+  "ReplaceText": "\u65B0",
+  "StartNumber": "1",
+  "NumberFormat": 0,
+  "PreserveExtension": true,
+  "CaseSensitive": false
+}
